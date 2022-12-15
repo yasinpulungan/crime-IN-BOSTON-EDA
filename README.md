@@ -14,4 +14,7 @@ Analisis ini memiliki flow
 
 Anda Dapat melihat hasil analisis dari file Jupiter Notebook pada respositori ini dan silahkan memberi masukan pada hasil analisis ini 
 
+Saya juga membuat visualisasi untuk hasil ini menggunakan Tableau yang bisa di akses pada link berikut 
+https://public.tableau.com/app/profile/rahmad.yasin/viz/TableauCapstoneProject2EDACrimeInBoston/Dashboard1?publish=yes
+
 Terimakasih
